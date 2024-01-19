@@ -1,0 +1,10 @@
+#Total report generated for date 2024-01-18.
+#The rate by order is 40.0.
+
+order_id | origin | destiny | timestamp | quantity | subtotal
+1 | MDQ | ATL | 1705589070 | 2 | 80.0
+2 | BRU | ATL | 1705589070 | 3 | 120.0
+3 | BOS | BRU | 1705589070 | 2 | 80.0
+4 | BUH | CCS | 1705589070 | 4 | 160.0
+
+#The Total at 2024-01-18: $ 440.0
