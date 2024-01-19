@@ -39,7 +39,7 @@
 - Se subió el archivo `.env` a Git para que la persona encargada de revisar el desafío tenga una referencia de cómo configurar la solución.
 
 
-# Begin English
+# English
 
 # Project Description
 
