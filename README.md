@@ -1,4 +1,4 @@
-# kiw-challenge (Español and Ingles)
+# kiw-challenge (Español & Ingles)
 
 # Descripción del Proyecto
 
