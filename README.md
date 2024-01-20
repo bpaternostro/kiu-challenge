@@ -9,6 +9,7 @@
 
 - Aunque no es un framework (para cumplir con las instrucciones), evité utilizar librerías como "pandas" para la solución del challenge.
 - No se agregó un módulo de registro porque se intentó mantener el código lo más simple posible.
+- Debido a la especificación de que son paquetes unicamente de "clientes", cree una unica clase para el procesamiento paquetes. 
 - Para configurar la solución, utilizamos el archivo `.env`, donde definimos:
     - `INPUT_FILE`:
         - Denominación del archivo de entrada.
@@ -50,6 +51,7 @@
 
 - Although it's not a framework (to comply with the instructions), I avoided using libraries like "pandas" for the challenge solution.
 - A logging module was not added because an effort was made to keep the code as simple as possible.
+- Due to the specification that packages are only from "clients," I created a single class for processing packages.
 - To configure the solution, we use the `.env` file, where we define:
     - `INPUT_FILE`:
         - Denomination of the input file.
