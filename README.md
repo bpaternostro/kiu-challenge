@@ -9,7 +9,7 @@
 
 - Aunque no es un framework (para cumplir con las instrucciones), evité utilizar librerías como "pandas" para la solución del challenge.
 - No se agregó un módulo de registro porque se intentó mantener el código lo más simple posible.
-- Debido a la especificación de que son paquetes unicamente de "clientes", cree una unica clase para el procesamiento paquetes. 
+- Debido a la especificación de que son paquetes unicamente de "clientes", fue creada una unica clase para el procesamiento paquetes. 
 - Para configurar la solución, utilizamos el archivo `.env`, donde definimos:
     - `INPUT_FILE`:
         - Denominación del archivo de entrada.
